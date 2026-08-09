@@ -1,0 +1,666 @@
+- title: 'Global landscape of sports statistics: initial census of researchers and
+    academics in the field'
+  year: 2026
+  authors: Casals, M.; Oliver, M.; Fernandez, D.; Jordi Cortés; Lorenzo, A.; Ley,
+    C.
+  journal: International journal of sports science & coaching
+  doi: 10.1177/17479541261467942
+  url: https://journals.sagepub.com/doi/10.1177/17479541261467942
+  volume: ''
+  number: ''
+  pages: ''
+  shiny: ''
+  web: https://www.grbio.eu/pubs/sports-stats-census/
+  code: ''
+  data: ''
+- title: Factors influencing match retirement of professional men’s tennis doubles
+    players
+  year: 2026
+  authors: Romero, S.; Baiget, E.; Jordi Cortés; Martínez-Gallego, R.; Crespo, M.;
+    Casals, M.
+  journal: International journal of performance analysis in sport
+  doi: 10.1080/24748668.2026.2633830
+  url: https://www.tandfonline.com/doi/full/10.1080/24748668.2026.2633830
+  volume: ''
+  number: ''
+  pages: 1--14
+  shiny: ''
+  web: ''
+  code: https://github.com/SRCalduch/TFM
+  data: https://github.com/SRCalduch/TFM
+- title: 'Analysis of non-prospective trial registration in clinical trials submitted
+    to The BMJ: observational study'
+  year: 2026
+  authors: Blanco, D.; Loder, E.; Cook, S.; Casals, M.; Jordi Cortés; Cadellans-Arroniz,
+    A.; Zárate, V.; Hubbard, E.; Schroter, S.
+  journal: BMJ
+  doi: 10.1136/bmj-2025-086467
+  url: https://www.bmj.com/content/392/bmj-2025-086467
+  volume: '392'
+  number: article e086467
+  pages: ''
+  shiny: ''
+  web: ''
+  code: https://zenodo.org/records/17661977
+  data: https://zenodo.org/records/17661977
+- title: Player defaults in professional tennis tournaments for men from 1973 to 2024
+  year: 2026
+  authors: Casals, M.; Peña, V.; Martínez, J.; Ampuero, R.; Jordi Cortés; Baiget,
+    E.
+  journal: Apunts. Educació física i esports
+  doi: 10.5672/apunts.2014-0983.es.(2026/1).163.05
+  url: http://hdl.handle.net/2117/457575
+  volume: ''
+  number: '163'
+  pages: 47--57
+  shiny: ''
+  web: ''
+  code: https://github.com/marticasals/default_ATP
+  data: https://github.com/marticasals/default_ATP
+- title: 'Methodological quality and reporting using time-to-event data in sports
+    science and medicine: a scoping review'
+  year: 2025
+  authors: Jordi Cortés; Nielsen, R.; Casals, M.
+  journal: BMJ open sport & exercise medicine
+  doi: 10.1136/bmjsem-2025-002800
+  url: https://bmjopensem.bmj.com/content/11/4/e002800
+  volume: '11'
+  number: 4, article 002800
+  pages: ''
+  shiny: ''
+  web: ''
+  code: https://github.com/jordicortes40/survival-sports-reporting
+  data: https://github.com/jordicortes40/survival-sports-reporting
+- title: 'Epidemiology and determinants of walkovers in professional men’s tennis
+    (1973–2019): A retrospective cohort analysis'
+  year: 2025
+  authors: Casals, M.; Peña, V.; de Pablo, B.; Ampuero, R.; Jordi Cortés; Baiget,
+    E.
+  journal: Montenegrin journal of sports science and medicine
+  doi: 10.26773/mjssm.250909
+  url: https://www.mjssm.me/?sekcija = article&artid = 304
+  volume: '14'
+  number: '2'
+  pages: 79--87
+  shiny: ''
+  web: ''
+  code: https://github.com/marticasals/WO_ATP
+  data: https://github.com/marticasals/WO_ATP
+- title: Design of trials with composite endpoints with the R package compAREdesign
+  year: 2025
+  authors: Jordi Cortés; Bofill, M.; Gómez Melis, Guadalupe
+  journal: STATISTICS IN BIOSCIENCES
+  doi: 10.1007/s12561-025-09488-3
+  url: https://link.springer.com/article/10.1007/s12561-025-09488-3
+  volume: ''
+  number: ''
+  pages: ''
+  shiny: ''
+  web: https://compare-composite.github.io/compare/
+  code: ''
+  data: ''
+- title: 'R shiny web applications in the sports field: a scoping review'
+  year: 2025
+  authors: Martínez, J.; Subirana, I.; Fernández, J.; Jordi Cortés; Silva, R.M; Casals,
+    M.
+  journal: Statistica e Applicazioni
+  doi: 10.26350/999999_000055
+  url: https://www.vitaepensiero.it/scheda-articolo_digital/marti-casals-jordi-cortes-jose-fernandez/r-shiny-web-applications-in-the-sports-fielda-scoping-review-999999_000055-399683.html
+  volume: '20'
+  number: '2'
+  pages: 153--179
+  shiny: ''
+  web: ''
+  code: ''
+  data: https://github.com/jmsancho18/RShiny_Sports_Apps
+- title: Epidemiology and factors influencing davis cup retirements over the past
+    twenty years
+  year: 2024
+  authors: Casals, M.; Jordi Cortés; Llenderrozos, D.; Crespo, M.; Hewett, Timothy
+    E.; Martín, L.; Baiget, E.
+  journal: International journal of sports physical therapy
+  doi: 10.26603/001c.123948
+  url: https://ijspt.scholasticahq.com/article/123948-epidemiology-and-factors-influencing-davis-cup-retirements-over-the-past-twenty-years?auth_token
+    = VTk8_0SfIQ5p_QNtba25
+  volume: '19'
+  number: '11'
+  pages: 1465--1476
+  shiny: ''
+  web: ''
+  code: https://github.com/marticasals/Davis_Cup_Retirements
+  data: https://github.com/marticasals/Davis_Cup_Retirements
+- title: Retirements of professional tennis players in ATP and WTA tour events
+  year: 2024
+  authors: Oliver, L.; Baiget, E.; Jordi Cortés; Martínez, J.; Crespo, M.; Casals,
+    M.
+  journal: European journal of sport science
+  doi: 10.1002/ejsc.12177
+  url: https://onlinelibrary.wiley.com/doi/10.1002/ejsc.12177
+  volume: ''
+  number: ''
+  pages: ''
+  shiny: ''
+  web: ''
+  code: https://github.com/marticasals/Retirements_epidemiology_ATP_WTA_Tour
+  data: https://github.com/marticasals/Retirements_epidemiology_ATP_WTA_Tour
+- title: Development and validation of a model to predict ceiling of care in COVID-19
+    hospitalized patients
+  year: 2024
+  authors: Pallarès, N.; Inouzhe, H.; Fernandez, D.; Jordi Cortés; Barrio, I.; Carratalà,
+    J.; Tebé, C.
+  journal: BMC palliative care
+  doi: 10.1186/s12904-024-01490-8
+  url: https://bmcpalliatcare.biomedcentral.com/articles/10.1186/s12904-024-01490-8
+  volume: '23'
+  number: article 173
+  pages: ''
+  shiny: ''
+  web: ''
+  code: ''
+  data: https://cran.r-project.org/web/packages/DIVINE/index.html
+- title: Retirements of professional tennis players in second- and third-tier tournaments
+    on the ATP and WTA tours
+  year: 2024
+  authors: Palau, M.; Baiget, E.; Jordi Cortés; Martínez, J.; Crespo, M.; Casals,
+    M.
+  journal: PloS one
+  doi: 10.1371/journal.pone.0304638
+  url: https://journals.plos.org/plosone/article?id = 10.1371/journal.pone.0304638
+  volume: '19'
+  number: '6'
+  pages: 1--20
+  shiny: ''
+  web: ''
+  code: https://github.com/mariapalau/tennis-retirements
+  data: https://github.com/mariapalau/tennis-retirements
+- title: 'Heterogeneity of treatment response to beta-blockers in the treatment of
+    portal hypertension: a systematic review'
+  year: 2024
+  authors: Alsaeid, M.; Sung, S.; Bai, W.; Tam, M.; Wong, Y.; Jordi Cortés; Cobo,
+    E.; Gonzalez, J.; González-Abraldes, J.
+  journal: Hepatology communications
+  doi: 10.1097/HC9.0000000000000321
+  url: https://journals.lww.com/hepcomm/fulltext/2024/02010/heterogeneity_of_treatment_response_to.10.aspx
+  volume: '8'
+  number: 2, article e0321
+  pages: ''
+  shiny: ''
+  web: ''
+  code: ''
+  data: ''
+- title: Prognostic accuracy of N20 somatosensory potential in patients with acute
+    ischemic stroke and endovascular thrombectomy
+  year: 2023
+  authors: Martínez, A.; Lucente, G.; Hernández, M.; Jordi Cortés; Arbex, A.; Pérez
+    de la Ossa, N.; Ramos, A.; Almendrote, M.; Millán, M.; Gomis, M.; Dorado, L.;
+    Castaño, C.; Remollo, S.; Cuadras, P.; Garrido, A.; Guanyabens, N.; López Cancio,
+    E.; Coll-Canti, J.; Dávalos, A.
+  journal: 'Stroke: Vascular and Interventional Neurology'
+  doi: 10.1161/SVIN.122.000735
+  url: https://www.ahajournals.org/doi/10.1161/SVIN.122.000735
+  volume: '3'
+  number: 5, article e000735
+  pages: ''
+  shiny: ''
+  web: ''
+  code: ''
+  data: ''
+- title: 'MSMpred: interactive modelling and prediction of individual evolution via
+    multistate models'
+  year: 2023
+  authors: Garmendia, L.; Jordi Cortés; Gómez Melis, Guadalupe
+  journal: BMC Medical research methodology
+  doi: 10.1186/s12874-023-01951-3
+  url: https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-023-01951-3
+  volume: '23'
+  number: article 126
+  pages: ''
+  shiny: https://www.grbio.eu/pubs/MSMpred2/
+  web: ''
+  code: ''
+  data: ''
+- title: A systematic review of sport-related packages within the R CRAN repository
+  year: 2023
+  authors: Casals, M.; Fernández, J.; Martínez, V.; López, M.; Langohr, K.; Jordi
+    Cortés
+  journal: International journal of sports science & coaching
+  doi: 10.1177/17479541221136238
+  url: https://journals.sagepub.com/eprint/RDQWSVBH8YJ2Y3BNTBY3/full
+  volume: '18'
+  number: '2'
+  pages: 621--629
+  shiny: ''
+  web: ''
+  code: ''
+  data: https://github.com/jordicortes40/CRAN_R_Sports_Packages
+- title: 'SARS-Cov-2 incubation period according to vaccination status during the
+    fifth COVID-19 wave in a tertiary-care center in Spain: a cohort study'
+  year: 2022
+  authors: Jordi Cortés; Pak, D.; Abelenda-Alonso, G.; Langohr, K.; Ning, J.; Rombauts,
+    A.; Colom, M.; Shen, Y.; Gómez Melis, Guadalupe
+  journal: BMC infectious diseases
+  doi: 10.1186/s12879-022-07822-4
+  url: https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-022-07822-4
+  volume: '22'
+  number: '828'
+  pages: 1--7
+  shiny: ''
+  web: ''
+  code: ''
+  data: ''
+- title: 'Early and delayed infarct growth in patients undergoing mechanical thrombectomy:
+    a prospective, serial MRI study'
+  year: 2022
+  authors: Hernández, M.; Werner, M.; Remollo, S.; Martín, C.; Jordi Cortés; Valls,
+    A.; Ramos, A.; Dorado, L.; Serena, J.; Munuera, J.; Puig, J.; Pérez de la Ossa,
+    N.; Gomis, M.; Carbonell, J.; Castaño, C.; Muñoz-Narbona, L.; Palomeras, E.; Domènech,
+    S.; Massuet-Vilamajó, A.; Terceño, M.; Dávalos, A.; Millán, M.
+  journal: Stroke
+  doi: 10.1161/STROKEAHA.122.039090
+  url: https://www.ahajournals.org/doi/10.1161/STROKEAHA.122.039090
+  volume: '54'
+  number: '1'
+  pages: 217--225
+  shiny: ''
+  web: ''
+  code: ''
+  data: ''
+- title: 'Descripción de la supervivencia con indicadores numéricos y gráficos: conceptos
+    básicos y errores que evitar'
+  year: 2022
+  authors: Gómez Melis, Guadalupe; Jordi Cortés; Cobo, E.
+  journal: Cirugia española
+  doi: 10.1016/j.ciresp.2021.11.017
+  url: https://www.elsevier.es/es-revista-cirugia-espanola-36-avance-resumen-descripcion-supervivencia-con-indicadores-numericos-S0009739X21003766
+  volume: ''
+  number: ''
+  pages: ''
+  shiny: ''
+  web: ''
+  code: ''
+  data: ''
+- title: 'Use of GPS to measure external load and estimate the incidence of muscle
+    injuries in men’s football: a novel descriptive study'
+  year: 2022
+  authors: Guitart, M.; Casals, M.; Casamichana, D.; Jordi Cortés; Valle, F.; McCall,
+    A.; Cos, F.; Rodas, G.
+  journal: PloS one
+  doi: 10.1371/journal.pone.0263494
+  url: https://journals.plos.org/plosone/article?id = 10.1371/journal.pone.0263494
+  volume: '17'
+  number: 2, article e0263494
+  pages: ''
+  shiny: ''
+  web: ''
+  code: ''
+  data: ''
+- title: 'Targeting pro-oxidant iron with deferoxamine as a treatment for ischemic
+    stroke: safety and optimal dose selection in a randomized clinical trial'
+  year: 2021
+  authors: Millán, M.; De Gregorio Rocasolano, N.; Pérez de la Ossa, N.; Reverté,
+    S.; Costa, J.; Giner, P.; Silva, Y.; Sobrino, T.; Rodríguez-Yañez, M.; Nombela,
+    F.; Campos, F.; Serena, J.; Vivancos, J.; Martí-Sistac, O.; Jordi Cortés; Dávalos,
+    A.; Gasull, T.
+  journal: Antioxidants
+  doi: 10.3390/antiox10081270
+  url: https://www.mdpi.com/2076-3921/10/8/1270
+  volume: '10'
+  number: 8, article 1270
+  pages: ''
+  shiny: ''
+  web: ''
+  code: ''
+  data: ''
+- title: Using the geometric average hazard ratio in sample size calculation for time-to-event
+    data with composite endpoints
+  year: 2021
+  authors: Jordi Cortés; Geskus, R.; Kim, K.; Gómez Melis, Guadalupe
+  journal: BMC Medical research methodology
+  doi: 10.1186/s12874-021-01286-x
+  url: https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-021-01286-x
+  volume: '21'
+  number: ''
+  pages: 99:1--99:14
+  shiny: ''
+  web: ''
+  code: https://github.com/jordicortes40/sample_size_composite
+  data: ''
+- title: 'Prematurity and ADHD in childhood: an observational register-based study
+    in Catalonia'
+  year: 2021
+  authors: Perapoch, J.; Vidal, R.; Gómez-Lumbreras, A.; Hermosilla, E.; Riera, L.;
+    Jordi Cortés; Céspedes, MC; Ramos, J.; Morros, R.
+  journal: Journal of attention disorders
+  doi: 10.1177/1087054719864631
+  url: https://journals.sagepub.com/doi/abs/10.1177/1087054719864631
+  volume: '25'
+  number: '7'
+  pages: 933--941
+  shiny: ''
+  web: ''
+  code: ''
+  data: ''
+- title: 'The use and adherence of oral anticoagulants in Primary Health Care in Catalunya,
+    Spain: a real-world data cohort study'
+  year: 2020
+  authors: Giner-Soriano, M.; Jordi Cortés; Gómez-Lumbreras, A.; Prat, O.; Quijada-Manuitt,
+    M.; Morros, R.
+  journal: Atención primaria
+  doi: 10.1016/j.aprim.2020.05.016
+  url: https://www.elsevier.es/es-revista-atencion-primaria-27-avance-resumen-the-use-adherence-oral-anticoagulants-S0212656720301840
+  volume: '52'
+  number: '8'
+  pages: 529--538
+  shiny: ''
+  web: ''
+  code: ''
+  data: ''
+- title: 'Modeling the coronavirus disease 2019 incubation period: impact on quarantine
+    policy'
+  year: 2020
+  authors: Pak, D.; Langohr, K.; Ning, J.; Jordi Cortés; Gómez Melis, Guadalupe; Shen,
+    Y.
+  journal: Mathematics
+  doi: 10.3390/math8091631
+  url: https://www.mdpi.com/2227-7390/8/9/1631/htm
+  volume: '8'
+  number: '9'
+  pages: 1631-1--1631-8
+  shiny: ''
+  web: ''
+  code: ''
+  data: ''
+- title: 'Validity of ICD-9 and ICD-10 codes used to identify acute liver injury:
+    a study in three European data sources'
+  year: 2019
+  authors: Forns, J.; Cainzos, M.; Hellfritzsch, M.; Morros, R.; Poblador, B.; Hallas,
+    J.; Giner-Soriano, M.; Prados-Torres, A.; Pottegard, A.; Jordi Cortés; Castellsagué,
+    J.; Jacquot, E.; Deltour, N.; Pérez-Gutthann, S.; Pladevall, M.
+  journal: Pharmacoepidemiology and drug safety
+  doi: 10.1002/pds.4803
+  url: https://onlinelibrary.wiley.com/doi/full/10.1002/pds.4803
+  volume: '28'
+  number: '7'
+  pages: 965--975
+  shiny: ''
+  web: ''
+  code: ''
+  data: ''
+- title: 'Adherence to reporting guidelines increases the number of citations: the
+    argument for including a methodologist in the editorial process and peer-review'
+  year: 2019
+  authors: Vilaró, M.; Jordi Cortés; Selva, A.; Urrutia, A.; Ribera, J.M.; Cardellach,
+    F.; Basagaña, X.; Elmore, M.; Vilardell, M.; Altman, D.; Gonzalez, J.; Cobo, E.
+  journal: BMC Medical research methodology
+  doi: 10.1186/s12874-019-0746-4
+  url: https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-019-0746-4
+  volume: '112'
+  number: '19'
+  pages: 1--7
+  shiny: ''
+  web: ''
+  code: ''
+  data: ''
+- title: 'Transfer to the local stroke center versus direct transfer to endovascular
+    center of acute stroke patients with suspected large vessel occlusion in the Catalan
+    territory (RACECAT): study protocol of a cluster randomized within a cohort trial'
+  year: 2019
+  authors: Abilleira, S.; Pérez de la Ossa, N.; Jiménez, X.; Cardona, P.; Cocho, D.;
+    Purroy, F.; Serena, J.; San Román, L.; Urra, X.; Vilaró, M.; Jordi Cortés; Gonzalez,
+    J.; Chamorro, Á.; Gallofre, M.; Jovin, T.; Molina, C.; Cobo, E.; Dávalos, A.;
+    Ribó, M.
+  journal: International journal of stroke
+  doi: 10.1177/1747493019852176
+  url: https://journals.sagepub.com/doi/full/10.1177/1747493019852176
+  volume: '14'
+  number: '7'
+  pages: 1--25
+  shiny: ''
+  web: ''
+  code: ''
+  data: ''
+- title: 'Antidepressant use in Denmark, Germany, Spain, and Sweden between 2009 and
+    2014: incidence and comorbidities of antidepressant initiators'
+  year: 2019
+  authors: Forns, J.; Pottegard, A.; Reinders, T.; Poblador, B.; Morros, R.; Brandt,
+    L.; Cainzos, M.; Hellfritzsch, M.; Schink, T.; Prados-Torres, A.; Giner-Soriano,
+    M.; Hagg, D.; Hallas, J.; Jordi Cortés; Jacquot, E.; Deltour, N.; Pérez-Gutthann,
+    S.; Pladevall, M.; Reutfors, J.
+  journal: Journal of affective disorders
+  doi: 10.1016/j.jad.2019.02.010
+  url: https://www.sciencedirect.com/science/article/pii/S016503271832398X
+  volume: '249'
+  number: ''
+  pages: 242--252
+  shiny: ''
+  web: ''
+  code: ''
+  data: ''
+- title: 'Risk of Acute Liver Injury in agomelatine and other antidepressant users
+    in four european countries: a cohort and nested case–control study using automated
+    health data sources'
+  year: 2019
+  authors: Pladevall, M.; Pottegard, A.; Schink, T.; Reutfors, J.; Morros, R.; Poblador,
+    B.; Timmer, A.; Forns, J.; Hellfritzsch, M.; Reinders, T.; Hagg, D.; Giner-Soriano,
+    M.; Prados-Torres, A.; Cainzos, M.; Hallas, J.; Brandt, L.; Jordi Cortés; Aguado,
+    J.; Perlemuter, G.; Falissard, B.; Castellsagué, J.; Jacquot, E.; Deltour, N.;
+    Pérez-Gutthann, S.
+  journal: CNS drugs
+  doi: 10.1007/s40263-019-00611-9
+  url: https://link.springer.com/article/10.1007%2Fs40263-019-00611-9
+  volume: '33'
+  number: '4'
+  pages: 383--395
+  shiny: ''
+  web: ''
+  code: ''
+  data: ''
+- title: Efficacy of high doses of penicillin versus amoxicillin in the treatment
+    of uncomplicated community acquired pneumonia in adults. A non-inferiority controlled
+    clinical trial
+  year: 2019
+  authors: Llor, C.; Pérez, A.; Carandell, E.; García Sangenís, A.; Rezola, J.; Llorente,
+    M.; Gestodo, S.; Bobé, F.; Román, M.; Cots, J.; Hernández, S.; Jordi Cortés; Miravitlles,
+    M.; Morros, R.
+  journal: Atención primaria
+  doi: 10.1016/j.aprim.2017.08.003
+  url: https://www.sciencedirect.com/science/article/pii/S0212656717302342?via%3Dihub
+  volume: '51'
+  number: '1'
+  pages: 32--39
+  shiny: ''
+  web: ''
+  code: ''
+  data: ''
+- title: 'Assessing Shiny apps through student feedback: recommendations from a qualitative
+    study'
+  year: 2018
+  authors: Gonzalez, J.; Lopez, M.; Cobo, E.; Jordi Cortés
+  journal: Computer applications in engineering education
+  doi: 10.1002/cae.21932
+  url: https://onlinelibrary.wiley.com/doi/abs/10.1002/cae.21932
+  volume: '26'
+  number: '5'
+  pages: 1813--1824
+  shiny: ''
+  web: ''
+  code: ''
+  data: ''
+- title: 'Effect of effervescent paracetamol on blood pressure: a crossover randomized
+    clinical trial'
+  year: 2018
+  authors: Benitez-Camps, M.; Morros, R.; Pera-Pujadas, H.; Dalfó Baqué, A.; Bayó
+    Llibre, J.; Rebagliato Nadal, O.; Jordi Cortés; García Sangenís, A.; Roca Saumell,
+    C.; Coll de Tuero, G.; Vinyoles Bargalló, E.
+  journal: Journal of hypertension
+  doi: 10.1097/HJH.0000000000001733
+  url: https://insights.ovid.com/crossref?an = 00004872-201808000-00008
+  volume: '36'
+  number: '8'
+  pages: 1656--1662
+  shiny: ''
+  web: ''
+  code: ''
+  data: ''
+- title: 'Characteristics of apixaban-treated patients, evaluation of the dose prescribed,
+    and the persistence of treatment: a cohort study in Catalonia'
+  year: 2018
+  authors: Gómez-Lumbreras, A.; Jordi Cortés; Giner-Soriano, M.; Quijada-Manuitt,
+    M.; Morros, R.
+  journal: Journal of cardiovascular pharmacology and therapeutics
+  doi: 10.1177/1074248418778544
+  url: http://journals.sagepub.com/eprint/6NYnn9mhQjp8Q9rr65X9/full
+  volume: '23'
+  number: '6'
+  pages: 494--501
+  shiny: ''
+  web: ''
+  code: ''
+  data: ''
+- title: 'Impact of medication adherence on mortality and cardiovascular morbidity:
+    a population-based cohort study. IMPACT study'
+  year: 2018
+  authors: Giner-Soriano, M.; Gerard, S.; Jordi Cortés; Pera, H.; García Sangenís,
+    A.; Morros, R.
+  journal: JMIR Research Protocols
+  doi: 10.2196/resprot.8121
+  url: http://www.researchprotocols.org/2018/3/e73/
+  volume: '7'
+  number: '3'
+  pages: 1--8
+  shiny: ''
+  web: ''
+  code: ''
+  data: ''
+- title: Does evidence support the high expectations placed in precision medicine?
+    A bibliographic review
+  year: 2018
+  authors: Jordi Cortés; Gonzalez, J.; Medina, M.; Vogler, M.; Vilaro, M.; Elmore,
+    M.; Senn, S.; Campbell, M.; Cobo, E.
+  journal: F1000 Research Ltd
+  doi: 10.12688/f1000research.13490.1
+  url: https://f1000research.com/articles/7-30/v1
+  volume: '7'
+  number: '30'
+  pages: 1--11
+  shiny: ''
+  web: ''
+  code: https://zenodo.org/records/1239539
+  data: ''
+- title: Reported prestroke physical activity is associated with vascular endothelial
+    growth factor expression and good outcomes after stroke
+  year: 2017
+  authors: López Cancio, E.; Ricciardi, A.; Sobrino, T.; Jordi Cortés; Pérez de la
+    Ossa, N.; Millán, M.; Hernández, M.; Gomis, M.; Dorado, L.; Muñoz-Narbona, L.;
+    Campos, F.; Arenillas, J.; Dávalos, A.
+  journal: Journal of stroke and cerebrovascular diseases
+  doi: 10.1016/j.jstrokecerebrovasdis.2016.10.004
+  url: http://hdl.handle.net/2117/102687
+  volume: '26'
+  number: '2'
+  pages: 425--430
+  shiny: ''
+  web: ''
+  code: ''
+  data: ''
+- title: Predictive value of modifications of the prehospital rapid arterial occlusion
+    evaluation scale for large vessel occlusion in patients with acute stroke
+  year: 2017
+  authors: Carrera, D.; Campbell, BCV; Jordi Cortés; Gorchs, M.; Querol, M.; Jiménez,
+    X.; Millán, M.; Dávalos, A.; Pérez de la Ossa, N.
+  journal: Journal of stroke and cerebrovascular diseases
+  doi: 10.1016/j.jstrokecerebrovasdis.2016.08.032
+  url: http://hdl.handle.net/2117/102420
+  volume: '26'
+  number: '1'
+  pages: 74--77
+  shiny: ''
+  web: ''
+  code: ''
+  data: ''
+- title: Importancia de la potencia y la hipótesis en el valor p
+  year: 2016
+  authors: Jordi Cortés; Casals, M.; Langohr, K.; Gonzalez, J.
+  journal: Medicina clínica
+  doi: 10.1016/j.medcli.2015.10.011
+  url: http://hdl.handle.net/2117/85046
+  volume: '146'
+  number: '4'
+  pages: 178--181
+  shiny: ''
+  web: ''
+  code: ''
+  data: ''
+- title: A hazard ratio was estimated by a ratio of median survival times, but with
+    considerable uncertainty
+  year: 2014
+  authors: Jordi Cortés; Gonzalez, J.; Campbell , M.J.; Cobo, E.
+  journal: Journal of clinical epidemiology
+  doi: 10.1016/j.jclinepi.2014.05.017
+  url: http://www.jclinepi.com/article/S0895-4356%2814%2900227-3/abstract
+  volume: '67'
+  number: '1'
+  pages: 1172--1177
+  shiny: ''
+  web: ''
+  code: ''
+  data: ''
+- title: 'Barcelona baby boom: does sporting success affect birth rate?'
+  year: 2013
+  authors: Montesinos, J.; Jordi Cortés; Arnau, A.; Sanchez, J.; Elmore, M.; Macia,
+    N.; Gonzalez, J.; Santisteve, R.; Cobo, E.; Bosch, J.
+  journal: BMJ
+  doi: 10.1136/bmj.f7387
+  url: http://www.bmj.com/content/347/bmj.f7387.full.pdf+html
+  volume: '347'
+  number: ''
+  pages: f7387-1--f7387-6
+  shiny: ''
+  web: ''
+  code: ''
+  data: ''
+- title: 'Effect of high-flow nasal cannula and body position on end-expiratory lung
+    volume: A cohort study using electrical impedance tomography'
+  year: 2013
+  authors: Riera, J.; Pérez, P.; Jordi Cortés; Roca, O.; Masclans, J.; Rello, J.
+  journal: Respiratory Care
+  doi: 10.4187/respcare.02086
+  url: http://rc.rcjournal.com/content/58/4/589
+  volume: '58'
+  number: '4'
+  pages: 589--596
+  shiny: ''
+  web: ''
+  code: ''
+  data: ''
+- title: Circadian rhythms in the efficacy of intravenous alteplase in patients with
+    acute ischemic stroke and middle cerebral artery occlusion
+  year: 2012
+  authors: Vilas, D.; Gomis, M.; Blanco, M.; Jordi Cortés; Millán, M.; De La Ossa,
+    N.; Dorado, L.; López Cancio, E.; Suñol, A.; Dávalos, A.
+  journal: Chronobiology international
+  doi: 10.3109/07420528.2012.728655
+  url: https://www.tandfonline.com/doi/full/10.3109/07420528.2012.728655
+  volume: '29'
+  number: '10'
+  pages: 1383--1389
+  shiny: ''
+  web: ''
+  code: ''
+  data: ''
+- title: 'Effect of using reporting guidelines during peer review on quality of final
+    manuscripts submitted to a biomedical journal: masked randomised trial'
+  year: 2011
+  authors: Cobo, E.; Jordi Cortés; Ribera, J.M.; Cardellach, F.; Selva, A.; Kostov,
+    B.; Garcia, L.; Cirugeda, L.; Altman, D.; Gonzalez, J.; Sanchez, J.; Miras, F.;
+    Urrutia, A.; Fonollosa, V.; Rey-Joly, C.; Vilardell, M.
+  journal: BMJ. British medical journal
+  doi: 10.1136/bmj.d6783
+  url: http://www.bmj.com/content/343/bmj.d6783.full.pdf+html
+  volume: '343'
+  number: '7833'
+  pages: 1084--1084
+  shiny: ''
+  web: ''
+  code: ''
+  data: ''

@@ -1,0 +1,106 @@
+{{ define "main" }}
+
+<div class="container publications-page">
+
+  <h1>{{ .Title }}</h1>
+
+  {{ $publications := hugo.Data.publications }}
+
+  {{ $years := slice }}
+
+  {{ range $publications }}
+    {{ if not (in $years .year) }}
+      {{ $years = $years | append .year }}
+    {{ end }}
+  {{ end }}
+
+  {{ range $year := $years }}
+
+    <h2 class="publication-year">{{ $year }}</h2>
+
+    {{ range $publications }}
+
+      {{ if eq .year $year }}
+
+        <article class="publication-item">
+
+          <h3 class="publication-title">
+            {{ .title }}
+          </h3>
+
+          <div class="publication-authors">
+            {{ $authors := split .authors "; " }}
+          
+            {{ range $i, $author := $authors }}
+              {{ if $i }}; {{ end }}
+          
+              {{ if eq $author "Jordi Cortés" }}
+                <strong>{{ $author }}</strong>
+              {{ else }}
+                {{ $author }}
+              {{ end }}
+            {{ end }}
+          </div>
+
+          <div class="publication-journal">
+            <em>{{ .journal }}</em>
+            {{ with .volume }}, {{ . }}{{ end }}
+            {{ with .number }} ({{ . }}){{ end }}
+            {{ with .pages }}, {{ . }}{{ end }}
+          </div>
+
+          <div class="publication-links">
+          
+            {{ if .doi }}
+              <a href="https://doi.org/{{ .doi }}"
+                 target="_blank"
+                 rel="noopener">
+                DOI: {{ .doi }}
+              </a>
+            {{ end }}
+          
+            {{ if .shiny }}
+              <a href="{{ .shiny }}"
+                 target="_blank"
+                 rel="noopener">
+                Shiny
+              </a>
+            {{ end }}
+          
+            {{ if .web }}
+              <a href="{{ .web }}"
+                 target="_blank"
+                 rel="noopener">
+                Web
+              </a>
+            {{ end }}
+          
+            {{ if .code }}
+              <a href="{{ .code }}"
+                 target="_blank"
+                 rel="noopener">
+                Code
+              </a>
+            {{ end }}
+          
+            {{ if .data }}
+              <a href="{{ .data }}"
+                 target="_blank"
+                 rel="noopener">
+                Data
+              </a>
+            {{ end }}
+          
+          </div>
+
+        </article>
+
+      {{ end }}
+
+    {{ end }}
+
+  {{ end }}
+
+</div>
+
+{{ end }}

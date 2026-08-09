@@ -1,0 +1,74 @@
+{{ define "main" }}
+
+<div class="container projects-page">
+
+  <h1>{{ .Title }}</h1>
+
+  {{ $projects := hugo.Data.projects }}
+
+  {{ range $category := slice "Research Network" "National Project" "Research Group" }}
+
+    {{ $hasProjects := false }}
+
+    {{ range $projects }}
+      {{ if eq .category $category }}
+        {{ $hasProjects = true }}
+      {{ end }}
+    {{ end }}
+
+    {{ if $hasProjects }}
+
+      <h2 class="project-category">{{ $category }}</h2>
+
+      {{ range $projects }}
+
+        {{ if eq .category $category }}
+
+          <article class="project-card">
+
+            <h3 class="project-title">
+              {{ .title }}
+            </h3>
+
+            <div class="project-meta">
+              {{ .year }}
+            </div>
+
+            {{ if .summary }}
+              <div class="project-summary">
+                {{ .summary }}
+              </div>
+            {{ end }}
+
+            {{ with .keywords }}
+              <div class="project-keywords">
+                {{ range . }}
+                  {{ if . }}
+                    <span class="keyword">{{ . }}</span>
+                  {{ end }}
+                {{ end }}
+              </div>
+            {{ end }}
+
+            {{ if .url }}
+              <a class="project-link"
+                 href="{{ .url }}"
+                 target="_blank"
+                 rel="noopener noreferrer">
+                Project website →
+              </a>
+            {{ end }}
+
+          </article>
+
+        {{ end }}
+
+      {{ end }}
+
+    {{ end }}
+
+  {{ end }}
+
+</div>
+
+{{ end }}
