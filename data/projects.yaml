@@ -90,21 +90,6 @@
   summary: ''
   keywords: []
   url: ''
-- title: Grup de recerca en bioestadística i bioinformàtica
-  year: 2017
-  category: National Project
-  summary: ''
-  keywords:
-  - Anàlisi integrativa
-  - Anàlisi Multivariant de Dades
-  - Aplicacions web
-  - Bioinformàtica
-  - Bioequivalència
-  - Clinical trials
-  - Dades Òmiques
-  - Simulation
-  - Survival analysis
-  url: ''
 - title: Statistical methods for clinical trials, complex censoring schemes and integrative
     omics data analysis
   year: 2016
@@ -171,6 +156,21 @@
   category: Research Group
   summary: ''
   keywords: []
+  url: ''
+- title: Grup de recerca en bioestadística i bioinformàtica
+  year: 2017
+  category: Research Group
+  summary: ''
+  keywords:
+  - Anàlisi integrativa
+  - Anàlisi Multivariant de Dades
+  - Aplicacions web
+  - Bioinformàtica
+  - Bioequivalència
+  - Clinical trials
+  - Dades Òmiques
+  - Simulation
+  - Survival analysis
   url: ''
 - title: Grup de Recerca en Bioestadística i Bioinformàtica (GRBIO)
   year: 2014
