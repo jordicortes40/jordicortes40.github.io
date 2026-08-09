@@ -21,7 +21,7 @@ main:
   weight: 50
 
 - name: CV
-  url: /uploads/CV_Jordi_Cortes_Martinez.pdf
+  url: /uploads/cv_jordi_cortes_martinez.pdf
   weight: 60
 
 - name: Contact
