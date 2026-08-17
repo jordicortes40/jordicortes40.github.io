@@ -12,7 +12,7 @@ sections:
       text: ""
       button:
         text: Curriculum Vitae
-        url: uploads/cv_Jordi_Cortes_Martinez.pdf
+        url: uploads/cv_jordi_cortes_martinez.pdf
 
     design:
       background:
