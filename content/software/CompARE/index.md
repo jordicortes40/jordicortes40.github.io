@@ -34,8 +34,7 @@ CompARE is built upon the statistical methodology implemented in the **CompAREde
 ## Availability
 
 - Web application: https://compare-composite.github.io/compare/
-- Source code *(add GitHub link if public)*
-- R package: CompAREdesign
+- R package: https://CRAN.R-project.org/package=CompAREdesign 
 - Documentation: https://compare-composite.github.io/compare/appfeatures.html
 
 ## Goal

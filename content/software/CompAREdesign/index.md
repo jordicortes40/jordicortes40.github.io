@@ -26,14 +26,15 @@ The package was developed to bridge methodological research and practical trial 
 
 The methodology and the package are described in:
 
-> Cortés J, Bofill Roig M, Gómez G. *Design of Trials with Composite Endpoints with the R Package CompAREdesign*. arXiv, 2022. :contentReference[oaicite:1]{index=1}
+> Cortés J, Bofill Roig M, Gómez G. *Design of Trials with Composite Endpoints with the R Package CompAREdesign*. Stat Biosci. 2026;18(2):395-417. doi: 10.1007/s12561-025-09488-3. Epub 2025 May 15
+
 
 ## Availability
 
-- CRAN *(add link)*
-- GitHub *(add link)*
-- Documentation *(add link)*
-- Article: https://arxiv.org/abs/2211.02535
+- CRAN: https://CRAN.R-project.org/package=CompAREdesign 
+- Vignettes: https://cran.r-project.org/web/packages/CompAREdesign/vignettes/binary_endpoints.html, https://cran.r-project.org/web/packages/CompAREdesign/vignettes/time_to_event_endpoints.html
+- Documentation: https://compare-composite.github.io/compare/
+- Article: https://link.springer.com/article/10.1007/s12561-025-09488-3
 
 ## Motivation
 
