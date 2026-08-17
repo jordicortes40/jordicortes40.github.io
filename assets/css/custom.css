@@ -267,4 +267,7 @@ table td:last-child {
   padding-left: 2.5rem;
 }
 
-
+/* Hide date and reading time from cards */
+.pt-3.border-t.border-zinc-100.dark\:border-zinc-800 {
+  display: none !important;
+}
